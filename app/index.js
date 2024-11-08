@@ -208,9 +208,9 @@ async function startBot() {
     console.log();
     Helper.showSkelLogo();
     await startBot();
-  } catch (_0x18a18e) {
-    await a0_0x2d58bd.clear();
-    await a0_0x2d58bd.clearInfo();
+  } catch (_0x362885) {
+    await a0_0x375d88.clear();
+    await a0_0x375d88.clearInfo();
     console.log("Error During executing bot", _0x18a18e);
     await startBot();
   }
