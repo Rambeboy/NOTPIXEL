@@ -252,8 +252,6 @@ export class Helper {
     return _0x3bbac7;
   }
   static ['showSkelLogo']() {
-    console.log("NOTPIXEL BOT");
     console.log("");
-  
   }
                         }
