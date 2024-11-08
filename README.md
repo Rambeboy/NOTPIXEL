@@ -6,7 +6,7 @@ NotPixel Mining By Pavel Durrov
 
 🏷 Reward: PX Tokens
 
-➡️ Register: https://t.me/notpixel/app?startapp=f6896240442_s575297
+➡️ Register: [NotPixel](https://t.me/notpixel/app?startapp=f6896240442_s575297)
 
 Color pixels and watch your Not PX balance grow.
 Just draw on the canvas and clear some task
